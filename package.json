@@ -1,0 +1,15 @@
+{
+  "name": "pso",
+  "description": "Particle Swarm Optimization library",
+  "version": "1.0.0",
+  "main": "src/pso.js",
+  "repository": {
+    "type": "git",
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-docco": "~0.3.3",
+    "grunt-eslint": "~8.0.0"
+  }
+}
